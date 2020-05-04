@@ -1,0 +1,228 @@
+{
+    "home": [
+        {
+            "home_img": "images/profile.jpg",
+            "home_heading_one": "Jeanetter benson",
+            "home_heading_three": "UX/UI designer"
+        }
+    ],
+    "homeIcon": [
+        {
+            "home_icon": "icon-facebook",
+            "home_icon_content": "Facebook",
+            "home_icon_link": "https://www.facebook.com/"
+        },
+        {
+            "home_icon": "icon-twitter",
+            "home_icon_content": "Twitter",
+            "home_icon_link": "https://twitter.com/"
+        },
+        {
+            "home_icon": "icon-linkedin",
+            "home_icon_content": "LinkedIn",
+            "home_icon_link": "https://www.linkedin.com/"
+        },
+        {
+            "home_icon": "icon-pinterest",
+            "home_icon_content": "Pinterest",
+            "home_icon_link": "https://pinterest.com"
+        },
+        {
+            "home_icon": "icon-instagram",
+            "home_icon_content": "Instagram",
+            "home_icon_link": "https://instagram.com"
+        }
+    ],
+    "portfolio": [
+        {
+            "portfolio_img": "images/portfolio/shirt.jpg",
+            "portfolio_heading_three": "Dress Shirt Blue",
+            "portfolio_paragraph": "Nike"
+        },
+        {
+            "portfolio_img": "images/portfolio/shirt1.jpg",
+            "portfolio_heading_three": "Dress Shirt Sky Blue",
+            "portfolio_paragraph": "Outfitter"
+        },
+        {
+            "portfolio_img": "images/portfolio/shirt2.jpg",
+            "portfolio_heading_three": "Dress Shirt Blue",
+            "portfolio_paragraph": "Breakout"
+        },
+        {
+            "portfolio_img": "images/portfolio/shirt3.jpg",
+            "portfolio_heading_three": "Dress Shirt Sky Blue",
+            "portfolio_paragraph": "Chen One"
+        },
+        {
+            "portfolio_img": "images/portfolio/shirt4.jpg",
+            "portfolio_heading_three": "Dress Shirt Blue",
+            "portfolio_paragraph": "Levi's"
+        },
+        {
+            "portfolio_img": "images/portfolio/shirt5.jpg",
+            "portfolio_heading_three": "T-Shirt Black",
+            "portfolio_paragraph": "Gul Ahmed"
+        }
+    ],
+
+    "reviews": [
+        {
+            "review_paragrapg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !",
+            "review_small_name": "Danial Munsif",
+            "review_data_slide": "0",
+            "review_img": "images/face1.jpg"
+            
+        },
+        {
+            "review_paragrapg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !",
+            "review_small_name": "Danial Munsif",
+            "review_data_slide": "1",
+            "review_img": "images/face2.jpg"
+            
+        },
+        {
+            "review_paragrapg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !",
+            "review_small_name": "Danial Munsif",
+            "review_data_slide": "2",
+            "review_img": "images/girl_face.png"
+           
+        }
+    ],
+    "aboutMe":[
+        {
+            "about_me_paragraph": "I am a passionate User Experience and User Interface Designer who has been working in this field for more than 3 years now."
+            
+        },
+        {
+            "about_me_paragraph": "You have an idea, you need someone to bring it ot life. Or you already have a product that needs to be redined to meet the demand of 2017 users!. This is where i come in! With my knowledge and creativity. I can take your idea, your product to the next level. Let's have a chat and discuss your idea!"
+        }
+    ],
+
+    "aboutWorkHistory":[
+        {
+            "about_workHisotory_heading_four":"Product Manager",
+            "about_workHistory_listOne":"Dropbox",
+            "about_workHistory_iconOne":"fa fa-building",
+            "about_workHistory_listTwo":"2017-Present",
+            "about_workHistory_iconTwo":"fa fa-clock-o" 
+        },
+        {
+            "about_workHisotory_heading_four":"Senior UX Designer",
+            "about_workHistory_listOne":"Dropbox",
+            "about_workHistory_iconOne":"fa fa-building",
+            "about_workHistory_listTwo":"2017-Present",
+            "about_workHistory_iconTwo":"fa fa-clock-o" 
+        },
+        {
+            "about_workHisotory_heading_four":"UX Design Intern",
+            "about_workHistory_listOne":"Dropbox",
+            "about_workHistory_iconOne":"fa fa-building",
+            "about_workHistory_listTwo":"2017-Present",
+            "about_workHistory_iconTwo":"fa fa-clock-o" 
+        }
+    ],
+
+    "aboutEducation":[
+        {
+            "about_education_heading_four":"User experience Design",
+            "about_education_listOne":"University of Punjab",
+            "about_education_iconOne":"fa fa-book",
+            "about_education_listTwo":"2017-Present",
+            "about_education_iconTwo":"fa fa-clock-o" 
+        },
+        {
+            "about_education_heading_four":"User experience Design",
+            "about_education_listOne":"University of Punjab",
+            "about_education_iconOne":"fa fa-book",
+            "about_education_listTwo":"2017-Present",
+            "about_education_iconTwo":"fa fa-clock-o" 
+        },
+        {
+            "about_education_heading_four":"User experience Design",
+            "about_education_listOne":"University of Punjab",
+            "about_education_iconOne":"fa fa-book",
+            "about_education_listTwo":"2017-Present",
+            "about_education_iconTwo":"fa fa-clock-o" 
+        }
+    ],
+    "services":[
+        {
+            "service_icon": "fa fa-android fa-3x",
+            "service_heading_four": "Mobile Apps",
+            "service_paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+        },
+        {
+            "service_icon": "fa fa-code fa-3x",
+            "service_heading_four": "web design",
+            "service_paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+        },
+        {
+            "service_icon": "fa fa-magic fa-3x",
+            "service_heading_four": "UX/UI Design",
+            "service_paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+        },
+        {
+            "service_icon": "fa fa-camera fa-3x",
+            "service_heading_four": "Photography",
+            "service_paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+        },
+        {
+            "service_icon": "fa fa-lightbulb-o fa-3x",
+            "service_heading_four": "brand identity",
+            "service_paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+        },
+        {
+            "service_icon": "fa fa-user-secret fa-3x",
+            "service_heading_four": "analytics",
+            "service_paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+        }
+    ],
+    "contact":[
+        {
+            "contact_icon": "fa fa-envelope fa-2x",
+            "contact_heading_four": "Queries",
+            "contact_webInfo_mail": "info@mywebsite.com",
+            "contact_gmail": "contact@gmail.com"
+        },
+        {
+            "contact_icon": "fa fa-phone fa-2x",
+            "contact_heading_four": "Call Us",
+            "contact_webInfo_mail": "info@mywebsite.com",
+            "contact_gmail": "contact@gmail.com"
+        },
+        {
+            "contact_icon": "fa fa-home fa-2x",
+            "contact_heading_four": "Office",
+            "contact_webInfo_mail": "info@mywebsite.com",
+            "contact_gmail": "contact@gmail.com"
+        }
+    ],
+    "contactForm":[
+        {
+            "contact_form_label_for": "your_name",
+            "contact_form_label": "Your Name",
+            "contact_form_input_type": "text",
+            "contact_form_input_name": "your_name",
+            "contact_form_input_id": "your_name",
+            "contact_form_input_placeholder": "Enter Your Name"
+        },
+        {
+            "contact_form_label_for": "your_email",
+            "contact_form_label": "Your Email",
+            "contact_form_input_type": "email",
+            "contact_form_input_name": "your_email",
+            "contact_form_input_id": "your_email",
+            "contact_form_input_placeholder": "Enter Your Email"
+        },
+        {
+            "contact_form_label_for": "your_message",
+            "contact_form_label": "Your Message",
+            "contact_form_input_type": "textarea",
+            "contact_form_input_name": "your_message",
+            "contact_form_input_id": "your_message",
+            "contact_form_input_placeholder": "Write Your Message",
+            "contact_form_input_row": "5"
+        }
+    ]
+}
